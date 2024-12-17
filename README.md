@@ -1,3 +1,5 @@
 # DEMO 2
 
-somt text
+## locl dev
+
+1. open index.html in your browser.
